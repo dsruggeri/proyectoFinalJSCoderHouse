@@ -67,13 +67,13 @@ function listarTodos() {
                                 <td><button type="button" class="btn btn-outline-warning">prestar</button></td>
                             </tr>`
         }                     
-       i+=1;
+        i+=1;
     }
 }
 
 //Lista los libros prestados -> devuelve un array nuevo solo con los prestados
 const listarPrestados = () => {
-   return miBiblioteca.filter(libro => libro.prestado)
+    return miBiblioteca.filter(libro => libro.prestado)
 }
 
 
