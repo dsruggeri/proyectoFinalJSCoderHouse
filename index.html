@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="css/style.css" />
+    <!-- Font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap"
+      rel="stylesheet"
+    />
+    <!-- CSS only -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi"
+      crossorigin="anonymous"
+    />
+
+    <title>PrestaLibros</title>
+  </head>
+  <body>
+
+    <!--NAV-->
+    <nav class="navbar navbar-expand bg-light">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+          <img
+            src="./images/logoPreLi_resumido.png"
+            alt="Logo"
+            width="75"
+            height="75"
+            class="d-inline-block align-text-center"
+          />
+          PrestaLibros</a
+        >
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav">
+            <li class="nav-item">
+              <a class="nav-link" aria-current="page" href="#mislibros">MisLibros</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#misprestamos">MisPréstamos</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <!--RESUMEN-->
+    <div class="container">
+        <h4>Mi biblioteca</h4>
+        <div class="row" id="resumen">
+            <div class="col-12 col-md-5">
+                <div class="card border-success mb-3" style="max-width: 25rem;">
+                    <div class="card-header bg-transparent border-success"><b>Resumen</b></div>
+                    <div class="card-body text-success">
+                    <h5 class="card-title">Hola, <span id="nombreUsuario"></span>!</h5>
+                    <p class="card-text">Tenés <span id="total">XX</span>  Libros en tu biblioteca. Actualmente, hay <span id="prestados">XX</span> prestados.</p>
+                    
+                    </div>
+                    <div class="card-footer bg-transparent border-success"><a class="nav-link" href="#misprestamos">ver prestados</a></div>
+                </div> 
+            </div>
+            <div class="col-12 col-md-5">
+                <div class="card border-primary mb-3" style="max-width: 25rem;">
+                    <div class="card-header bg-transparent border-primary"><b>Novedades</b></div>
+                    <div class="card-body text-primary">
+                    <h5 class="card-title">Último ingreso</h5>
+                    <p class="card-text"><span id="ultimoTitulo">TITULO</span>, de <span id="ultimoAutor"></span>, es tu libro más nuevo. Está editado por <span id="ultimoEditorial"> EDITORIAL</span></p>
+                    </div>
+                    <div class="card-footer bg-transparent border-primary"><a class="nav-link" aria-current="page" href="#mislibros">ver mis libros</a></div>
+                </div> 
+            </div>
+            <div class="col-12 col-md-2">
+                <div class="card border-warning mb-3" style="max-width: 25rem;">
+                    <div class="card-header bg-transparent border-warning"><b>Administrar</b></div>
+                    <div class="card-body text-warning">
+                    <button type="button" class="btn btn-success mb-4"><strong>+</strong> Nuevo libro</button>
+                    <br>
+                    <button type="button" class="btn btn-warning"><strong>+</strong> Prestar libro</button>
+                    
+                    </div>
+                </div> 
+            </div>
+        </div>
+    </div>
+
+
+    <!--TABLE DE MI BIBLIOTECA?-->
+    <div class="container" id="mislibros">
+        <h4>Mis Libros</h4> <i class="bi bi-plus-circle"></i>
+        <table class="table table-success table-striped table-hover table-sm table-responsive table-bordered">
+            <thead>
+              <tr>
+                <th scope="col">#</th>
+                <th scope="col">Título</th>
+                <th scope="col">Autor</th>
+                <th scope="col">Editorial</th>
+                
+                <th scope="col">Estado</th>
+                <th scope="col">Prestar</th>
+              </tr>
+            </thead>
+            <tbody id="listaDeLibros">
+              
+            </tbody>
+          </table>
+    </div>
+    <!--LISTA DE PRESTADOS?-->
+    <div class="container" id="misprestamos">
+        <h4>Mis libros prestados</h4>
+        <ul class="list-group" id="listaDePrestados">  
+        </ul>
+    </div>
+
+    <script src="js/main.js"></script>
+  </body>
+</html>
