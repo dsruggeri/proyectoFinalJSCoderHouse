@@ -12,3 +12,15 @@ h1, h2, h3, h4, h5, h6, p {
     max-width: 200px;
     max-height: 200px;
 }
+
+.rojo {
+    color: red;
+}
+
+.ocultar {
+    display : none;
+}
+
+.icono {
+    max-width: 35px;
+}

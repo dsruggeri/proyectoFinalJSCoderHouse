@@ -22,15 +22,6 @@ btnLoginVisitante.addEventListener("click", loginVisitante)
 btnLoginDiego.addEventListener("click", loginDiego)
 
 
-function navBar(){
-    let nombreUsuario = document.querySelector('#nombreUsuario');
-    nombreUsuario.innerHTML = `<p>PROBANDO!</p>`;
-    //JSON.parse(localStorage.getItem('usuarioActivo'));
-
-
-}
-
-
 function loginDiego(){
     sessionStorage.clear();
     DIEGO.biblioteca = bibliotecaDiego;
@@ -40,11 +31,10 @@ function loginDiego(){
 
 function loginVisitante(){
     sessionStorage.clear();
-    sessionStorage.setItem("usuarioActivo", JSON.stringify(VISITANTE));
-    
+    sessionStorage.setItem("usuarioActivo", JSON.stringify(VISITANTE));  
 }
 
-console.log(document.location.href)
+
 
 
 

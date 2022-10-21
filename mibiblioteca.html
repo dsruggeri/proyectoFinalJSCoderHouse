@@ -33,16 +33,22 @@
               height="75"
               class="d-inline-block align-text-center"
             />
-            Hola <span id="nombreusuario"></span></a
-          >
+            </a>
+            
           <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav">
+              <li class="nav-item">
+                <a class="nav-link" aria-current="page" href="#mislibros" id="linkMisLibros">Hola <strong><span id="nombreusuario"></span></strong></a>
+              </li>
               <li class="nav-item">
                 <a class="nav-link" aria-current="page" href="#mislibros" id="linkMisLibros">MisLibros</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="#misprestamos" id="linkMisPrestamos">MisPréstamos</a>
               </li>
+              <li class="nav-item float-right">
+                <a class="nav-link" href="index.html" id="logout"><img src="/images/logout_icon.png" class="icono"  alt="salir"></a>
+              </li>              
             </ul>
           </div>
         </div>
@@ -58,19 +64,19 @@
                 <div class="card border-success mb-3" style="max-width: 25rem;">
                     <div class="card-header bg-transparent border-success"><b>Resumen</b></div>
                     <div class="card-body text-success">
-                    <h5 class="card-title">Hola, <span id="nombreUsuario"></span>!</h5>
-                    <p class="card-text">Tenés <span id="total">XX</span>  Libros en tu biblioteca. Actualmente, hay <span id="prestados">XX</span> prestados.</p>
+                    <h5 class="card-title">Hola, <span id="username"></span>!</h5>
+                    <p class="card-text" id="textoresumen"></p>
                     
                     </div>
                     <div class="card-footer bg-transparent border-success"><a class="nav-link" href="#misprestamos" id="verPrestados">ver prestados</a></div>
                 </div> 
             </div>
-            <div class="col-12 col-md-5">
+            <div class="col-12 col-md-5" id="novedades">
                 <div class="card border-primary mb-3" style="max-width: 25rem;">
                     <div class="card-header bg-transparent border-primary"><b>Novedades</b></div>
                     <div class="card-body text-primary">
                     <h5 class="card-title">Último ingreso</h5>
-                    <p class="card-text"><span id="ultimoTitulo">TITULO</span>, de <span id="ultimoAutor"></span>, es tu libro más nuevo. Está editado por <span id="ultimoEditorial"> EDITORIAL</span></p>
+                    <p class="card-text" id="textoNovedades"></p>
                     </div>
                     <div class="card-footer bg-transparent border-primary"><a class="nav-link" aria-current="page" href="#mislibros" id="verMisLibros">ver mis libros</a></div>
                 </div> 
@@ -95,6 +101,7 @@
 
     <script src="js/bibliotecaDiego.js"></script>
     <script src="js/main.js"></script>
+    <script src="js/mibiblioteca.js"></script>
     
   </body>
 </html>

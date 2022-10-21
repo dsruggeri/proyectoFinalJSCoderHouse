@@ -18,4 +18,5 @@ formCrearUsuario.addEventListener("submit", (evt) => {
     sessionStorage.setItem("usuarioActivo", JSON.stringify(NUEVO));
     alert("Usuario creado exitosamente")
     
+    
 } )
