@@ -148,7 +148,7 @@ const bibliotecaDiego = [
         prestado : false 
     },
     {
-        titulo : "Una canción", 
+        titulo : "Una música", 
         autor : "Hernán Ronsino", 
         editorial : "Eterna Cadencia", 
         resenia : "", 
