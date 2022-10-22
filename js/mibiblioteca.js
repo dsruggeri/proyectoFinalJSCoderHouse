@@ -51,10 +51,32 @@ function novedades(){
         Está editado por <strong><span>${ultimoLibro.editorial}</span></strong>        
                                   `
     }
+}
 
+function listarTodos(){
+
+    let fila = document.querySelector("#filalibros");
+    let tabla = document.querySelector("#tablatodos");
+    if(usuarioActivo.biblioteca.length == 0){
+        alert("No tenés libros en tu biblioteca. No se puede listar lo que no se tiene.")
+    } else {
+        tabla.classList.remove('tabladelibros');
+        let contador = 0;
+        for(libro of usuarioActivo.biblioteca){
+            contador +=1;
+            fila.innerHTML += `
+            <th scope="row">${contador}</th>
+            <td>${libro.titulo}</td>
+            <td>${libro.autor}</td>
+            <td>${libro.editorial}</td>
+            <td id="btnaccion">${libro.prestado}</td>
+            `            
+        }
+    }
 }
 
 saludar();
 resumen();
 novedades();
+listarTodos();
 

@@ -47,7 +47,7 @@
                 <a class="nav-link" href="#misprestamos" id="linkMisPrestamos">MisPréstamos</a>
               </li>
               <li class="nav-item float-right">
-                <a class="nav-link" href="index.html" id="logout"><img src="/images/logout_icon.png" class="icono"  alt="salir"></a>
+                <a class="nav-link" href="" id="logout"><img src="/images/logout_icon.png" class="icono"  alt="salir"></a>
               </li>              
             </ul>
           </div>
@@ -97,6 +97,32 @@
 
 
     <!--TABLE DE MI BIBLIOTECA?-->
+  <div class="container tabladelibros" id="tablatodos">
+  <div class="row">
+    <div class="col-10">
+      <h2>Mis Libros</h2>
+    </div>
+    <div class="col-2">
+      <img src="/images/close_icon.png" alt="cerrar" class="icono">
+    </div>
+  </div>
+    
+    <table class="table table-secondary">
+      <thead>
+        <tr>
+          <th scope="col">id</th>
+          <th scope="col">Titulo</th>
+          <th scope="col">Autor</th>
+          <th scope="col">Editorial</th>
+          <th scope="col">Acción</th>
+        </tr>
+      </thead>
+      <tbody id="filalibros">
+
+      </tbody>
+    </table>
+  </div>
+
     
 
     <script src="js/bibliotecaDiego.js"></script>
