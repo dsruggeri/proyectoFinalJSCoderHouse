@@ -1,4 +1,30 @@
 body { 
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Dosis', sans-serif;
     background-image: url(../images/books_pattern_blur.png);
+}
+
+h1, h2, h3, h4, h5, h6, p {
+    font-family: 'Dosis';
+}
+
+
+.foto-welcome {
+    max-width: 200px;
+    max-height: 200px;
+}
+
+.rojo {
+    color: red;
+}
+
+.icono {
+    max-width: 25px;
+}
+
+.tabladelibros, .oculto {
+   visibility: hidden;
+}
+
+#btncerrartablatodos:hover, #btncerrartablaprestados:hover, .trash:hover {
+    cursor: pointer;
 }
