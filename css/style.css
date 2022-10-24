@@ -17,14 +17,14 @@ h1, h2, h3, h4, h5, h6, p {
     color: red;
 }
 
-.ocultar {
-    display : none;
-}
-
 .icono {
-    max-width: 35px;
+    max-width: 25px;
 }
 
-.tabladelibros {
+.tabladelibros, .oculto {
    visibility: hidden;
+}
+
+#btncerrartablatodos:hover, #btncerrartablaprestados:hover, .trash:hover {
+    cursor: pointer;
 }

@@ -50,7 +50,7 @@ const bibliotecaDiego = [
         prestado : false 
     },
     {
-        titulo : "Notal al pie", 
+        titulo : "Notas al pie", 
         autor : "Alejandro Dolina", 
         editorial : "Planeta", 
         resenia : "", 

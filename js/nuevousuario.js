@@ -9,14 +9,28 @@ const nuevoUsuarioEmail = document.querySelector("#email")
 
 
 formCrearUsuario.addEventListener("submit", (evt) => {
-    //evt.preventDefault();
+    evt.preventDefault();
     sessionStorage.clear();
     NUEVO.nombre = nuevoUsuarioNombre.value; 
     NUEVO.apellido = nuevoUsuarioApellido.value;
     NUEVO.username = nuevoUsuarioUsername.value; 
     NUEVO.email = nuevoUsuarioEmail.value;
     sessionStorage.setItem("usuarioActivo", JSON.stringify(NUEVO));
-    alert("Usuario creado exitosamente")
+
     
-    
+    Swal.fire(
+        'Perfecto!',
+        'probando',
+        'success'
+      )
+      confirmar();    
 } )
+
+function confirmar(){
+    let botonOK = document.querySelector(".swal2-confirm");
+    let origen = window.location.origin;
+    botonOK.addEventListener('click', (evt) => {
+        evt.preventDefault();
+        window.location = origen + "/mibiblioteca.html";
+    })
+}

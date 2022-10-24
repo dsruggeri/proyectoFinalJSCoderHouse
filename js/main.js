@@ -1,16 +1,4 @@
-//Defino la clase Usuario
-class Usuario {
-    constructor(nombre, apellido, username, email){
-        this.nombre = nombre;
-        this.apellido = apellido;
-        this.username = username;
-        this.email = email;
-        this.biblioteca = [];
-        this.activo = true;
-    }
-}
-
-//defino el usuario Diego, Visitante y Nuevo 
+ 
 //(mientras no exista un backend y no pueda persistir al nuevo usuario, "Nuevo" y "Visitante" funcionan igual...)
 const DIEGO = new Usuario("Diego", "Ruggeri", "dsruggeri", "dsruggeri@gmail.com")
 const VISITANTE = new Usuario("Visitante", "", "visitante", "", "")
