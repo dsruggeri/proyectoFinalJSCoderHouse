@@ -20,7 +20,7 @@ formCrearUsuario.addEventListener("submit", (evt) => {
     
     Swal.fire(
         'Perfecto!',
-        'probando',
+        'Usuario creado con éxito',
         'success'
       )
       confirmar();    
