@@ -56,6 +56,38 @@ function crearNav(evt){
         .catch(error => console.log(error));    
 }
 
+
+const consumirAPI = async () => {
+    try{
+    
+        const resp = await fetch("../data/APIefemerides.json");
+        const data = await resp.json();
+        console.log(data)
+        buscarFrase(data);
+    }
+    catch(error) {
+        console.log(error)
+    }    
+}
+
+const buscarFrase = (efemerides) => {
+
+    const hoy = new Date();
+    const mes = hoy.getMonth();
+    const dia = hoy.getDate()-1;
+    const nombre = document.querySelector('#efemeridesNombre');
+    const frase = document.querySelector('#efemeridesFrase');
+    console.log(mes)
+    console.log(efemerides)
+    console.log(efemerides[mes].frases[dia].nombre)
+    console.log(efemerides[mes].frases[dia].frase)
+    nombre.innerHTML = (efemerides[mes].frases[dia].nombre)
+    frase.innerHTML = (efemerides[mes].frases[dia].frase);
+    
+}
+    
+
+
 function salir(){
     let origen = window.location.origin;
     sessionStorage.clear();
@@ -314,7 +346,7 @@ function editarLibro() {
     }
 }
 
-    function formEditarLibro(libroTemp, indice) {
+function formEditarLibro(libroTemp, indice) {
         
         contenido.innerHTML = `
             <div class="container formulario">
@@ -391,9 +423,12 @@ function editarLibro() {
 
 
 
+
+
     saludar();
     resumen();
     novedades();
+    consumirAPI();
     
 
 
