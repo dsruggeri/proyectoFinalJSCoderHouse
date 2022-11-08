@@ -1,0 +1,1550 @@
+[
+    {
+      "frases": [
+        {
+          "nombre": "Osvaldo Soriano",
+          "frase": "Creo que no soy tan viejo como para ser venerable, ni tan joven como para ser un cómplice"
+        },
+        {
+          "nombre": "Roberto Fontanarrosa",
+          "frase": "Para el Sabio no existe la riqueza. Para el Virtuoso no existe el poder. Y para el Poderoso no existen ni el Sabio ni el Virtuoso"
+        },
+        {
+          "nombre": "Juan Rulfo",
+          "frase": "¿La ilusión? Eso cuesta caro. A mí me costó vivir más de lo debido"
+        },
+        {
+          "nombre": "Charles Bukowski",
+          "frase": "Soy un genio pero nadie lo sabe aparte de mí"
+        },
+        {
+          "nombre": "Edgar Allan Poe",
+          "frase": "A la muerte se le toma de frente con valor y después se le invita a una copa"
+        },
+        {
+          "nombre": "Luis Alberto Spinetta",
+          "frase": "Todo gigante muere cansado de que lo observen desde afuera"
+        },
+        {
+          "nombre": "Martín Kohan",
+          "frase": "Hay que dejar de endiosar a la lectura"
+        },
+        {
+          "nombre": "Bertolt Brecht",
+          "frase": "Cuando la verdad sea demasiado débil para defenderse tendrá que pasar al ataque"
+        },
+        {
+          "nombre": "Alberto Laiseca",
+          "frase": "Estoy harto de los genios. Lo que necesitamos es escritores que sepan escribir"
+        },
+        {
+          "nombre": "Vicente Huidobro",
+          "frase": "Inventa mundos nuevos y cuida tu palabra; el adjetivo, cuando no da vida, mata"
+        },
+        {
+          "nombre": "Leila Guerriero",
+          "frase": "Escribir es como correr una maratón: es horrible pero necesitas terminar"
+        },
+        {
+          "nombre": "Michel Houellebecq",
+          "frase": "El paso al monoteísmo no tiene nada de esfuerzo de abstracción, como algunos afirman: sólo es un paso hacia el embrutecimiento"
+        },
+        {
+          "nombre": "Jorge Asís",
+          "frase": "Yo empecé a escribir cuando la literatura aún tenía aluna relevancia a nivel social"
+        },
+        {
+          "nombre": "Boris Vian",
+          "frase": "No llore. No sirve para nada y se va a fatigar"
+        },
+        {
+          "nombre": "Jack Kerouac",
+          "frase": "La vida es un país extranjero"
+        },
+        {
+          "nombre": "Nikolái Gogol",
+          "frase": "El pánico es más contagioso que la peste y se comunica en un instante"
+        },
+        {
+          "nombre": "Simone de Beauvoir",
+          "frase": "A la muerte se le toma de frente con valor y después se le invita a una copa"
+        },
+        {
+          "nombre": "Tennessee Williams",
+          "frase": "Mata a mis demonios, y mis ángeles morirán también"
+        },
+        {
+          "nombre": "Henry Miller",
+          "frase": "No tengo dinero, ni recursos, ni esperanzas. Soy el hombre más feliz del mundo"
+        },
+        {
+          "nombre": "Arturo Pérez-Reverte",
+          "frase": "Ante una infamia es vil guardar silencio, y es digno rebelarse y combatirla"
+        },
+        {
+          "nombre": "Juan Carlos Onetti",
+          "frase": "La literatura es mentir bien la verdad"
+        },
+        {
+          "nombre": "Cesare Pavese",
+          "frase": "Pero la grande, la tremenda verdad es ésta: sufrir no sirve de nada"
+        },
+        {
+          "nombre": "José Donoso",
+          "frase": "Me gustaría tener dónde volver no para volver sino para tenerlo, nada más"
+        },
+        {
+          "nombre": "Juan Villoro",
+          "frase": "El futbol ha tenido un rey: Pelé. Pero solo ha tenido a un esclavo liberador: Maradona"
+        },
+        {
+          "nombre": "Robert Louis Stevenson",
+          "frase": "Mi memoria es magnífica para olvidar"
+        },
+        {
+          "nombre": "Antonio Skármeta",
+          "frase": "¿Usted cree que el mundo entero es la metáfora de algo?"
+        },
+        {
+          "nombre": "Susan Sontag",
+          "frase": "La literatura es libertad"
+        },
+        {
+          "nombre": "Oscar Wilde",
+          "frase": "Perdona siempre a tus enemigos: nada les molestará más"
+        },
+        {
+          "nombre": "T.S. Eliot",
+          "frase": "La mayor parte de los problemas del mundo se deben a la gente que quiere ser importante"
+        },
+        {
+          "nombre": "Gao Xingjian",
+          "frase": "Nadie puede librar a nadie de su sufrimiento"
+        },
+        {
+          "nombre": "Virginia Wolf",
+          "frase": "La vida es sueño; el despertar es lo que nos mata"
+        }
+      ]
+    },
+    {
+      
+      "frases": [
+        {
+          "nombre": "Osvaldo Soriano",
+          "frase": "Creo que no soy tan viejo como para ser venerable, ni tan joven como para ser un cómplice"
+        },
+        {
+          "nombre": "Roberto Fontanarrosa",
+          "frase": "Para el Sabio no existe la riqueza. Para el Virtuoso no existe el poder. Y para el Poderoso no existen ni el Sabio ni el Virtuoso"
+        },
+        {
+          "nombre": "Juan Rulfo",
+          "frase": "¿La ilusión? Eso cuesta caro. A mí me costó vivir más de lo debido"
+        },
+        {
+          "nombre": "Charles Bukowski",
+          "frase": "Soy un genio pero nadie lo sabe aparte de mí"
+        },
+        {
+          "nombre": "Edgar Allan Poe",
+          "frase": "A la muerte se le toma de frente con valor y después se le invita a una copa"
+        },
+        {
+          "nombre": "Luis Alberto Spinetta",
+          "frase": "Todo gigante muere cansado de que lo observen desde afuera"
+        },
+        {
+          "nombre": "Martín Kohan",
+          "frase": "Hay que dejar de endiosar a la lectura"
+        },
+        {
+          "nombre": "Bertolt Brecht",
+          "frase": "Cuando la verdad sea demasiado débil para defenderse tendrá que pasar al ataque"
+        },
+        {
+          "nombre": "Alberto Laiseca",
+          "frase": "Estoy harto de los genios. Lo que necesitamos es escritores que sepan escribir"
+        },
+        {
+          "nombre": "Vicente Huidobro",
+          "frase": "Inventa mundos nuevos y cuida tu palabra; el adjetivo, cuando no da vida, mata"
+        },
+        {
+          "nombre": "Leila Guerriero",
+          "frase": "Escribir es como correr una maratón: es horrible pero necesitas terminar"
+        },
+        {
+          "nombre": "Michel Houellebecq",
+          "frase": "El paso al monoteísmo no tiene nada de esfuerzo de abstracción, como algunos afirman: sólo es un paso hacia el embrutecimiento"
+        },
+        {
+          "nombre": "Jorge Asís",
+          "frase": "Yo empecé a escribir cuando la literatura aún tenía aluna relevancia a nivel social"
+        },
+        {
+          "nombre": "Boris Vian",
+          "frase": "No llore. No sirve para nada y se va a fatigar"
+        },
+        {
+          "nombre": "Jack Kerouac",
+          "frase": "La vida es un país extranjero"
+        },
+        {
+          "nombre": "Nikolái Gogol",
+          "frase": "El pánico es más contagioso que la peste y se comunica en un instante"
+        },
+        {
+          "nombre": "Simone de Beauvoir",
+          "frase": "A la muerte se le toma de frente con valor y después se le invita a una copa"
+        },
+        {
+          "nombre": "Tennessee Williams",
+          "frase": "Mata a mis demonios, y mis ángeles morirán también"
+        },
+        {
+          "nombre": "Henry Miller",
+          "frase": "No tengo dinero, ni recursos, ni esperanzas. Soy el hombre más feliz del mundo"
+        },
+        {
+          "nombre": "Arturo Pérez-Reverte",
+          "frase": "Ante una infamia es vil guardar silencio, y es digno rebelarse y combatirla"
+        },
+        {
+          "nombre": "Juan Carlos Onetti",
+          "frase": "La literatura es mentir bien la verdad"
+        },
+        {
+          "nombre": "Cesare Pavese",
+          "frase": "Pero la grande, la tremenda verdad es ésta: sufrir no sirve de nada"
+        },
+        {
+          "nombre": "José Donoso",
+          "frase": "Me gustaría tener dónde volver no para volver sino para tenerlo, nada más"
+        },
+        {
+          "nombre": "Juan Villoro",
+          "frase": "El futbol ha tenido un rey: Pelé. Pero solo ha tenido a un esclavo liberador: Maradona"
+        },
+        {
+          "nombre": "Robert Louis Stevenson",
+          "frase": "Mi memoria es magnífica para olvidar"
+        },
+        {
+          "nombre": "Antonio Skármeta",
+          "frase": "¿Usted cree que el mundo entero es la metáfora de algo?"
+        },
+        {
+          "nombre": "Susan Sontag",
+          "frase": "La literatura es libertad"
+        },
+        {
+          "nombre": "Oscar Wilde",
+          "frase": "Perdona siempre a tus enemigos: nada les molestará más"
+        },
+        {
+          "nombre": "T.S. Eliot",
+          "frase": "La mayor parte de los problemas del mundo se deben a la gente que quiere ser importante"
+        },
+        {
+          "nombre": "Gao Xingjian",
+          "frase": "Nadie puede librar a nadie de su sufrimiento"
+        },
+        {
+          "nombre": "Virginia Wolf",
+          "frase": "La vida es sueño; el despertar es lo que nos mata"
+        }
+      ]
+    },
+    {
+      
+      "frases": [
+        {
+          "nombre": "Osvaldo Soriano",
+          "frase": "Creo que no soy tan viejo como para ser venerable, ni tan joven como para ser un cómplice"
+        },
+        {
+          "nombre": "Roberto Fontanarrosa",
+          "frase": "Para el Sabio no existe la riqueza. Para el Virtuoso no existe el poder. Y para el Poderoso no existen ni el Sabio ni el Virtuoso"
+        },
+        {
+          "nombre": "Juan Rulfo",
+          "frase": "¿La ilusión? Eso cuesta caro. A mí me costó vivir más de lo debido"
+        },
+        {
+          "nombre": "Charles Bukowski",
+          "frase": "Soy un genio pero nadie lo sabe aparte de mí"
+        },
+        {
+          "nombre": "Edgar Allan Poe",
+          "frase": "A la muerte se le toma de frente con valor y después se le invita a una copa"
+        },
+        {
+          "nombre": "Luis Alberto Spinetta",
+          "frase": "Todo gigante muere cansado de que lo observen desde afuera"
+        },
+        {
+          "nombre": "Martín Kohan",
+          "frase": "Hay que dejar de endiosar a la lectura"
+        },
+        {
+          "nombre": "Bertolt Brecht",
+          "frase": "Cuando la verdad sea demasiado débil para defenderse tendrá que pasar al ataque"
+        },
+        {
+          "nombre": "Alberto Laiseca",
+          "frase": "Estoy harto de los genios. Lo que necesitamos es escritores que sepan escribir"
+        },
+        {
+          "nombre": "Vicente Huidobro",
+          "frase": "Inventa mundos nuevos y cuida tu palabra; el adjetivo, cuando no da vida, mata"
+        },
+        {
+          "nombre": "Leila Guerriero",
+          "frase": "Escribir es como correr una maratón: es horrible pero necesitas terminar"
+        },
+        {
+          "nombre": "Michel Houellebecq",
+          "frase": "El paso al monoteísmo no tiene nada de esfuerzo de abstracción, como algunos afirman: sólo es un paso hacia el embrutecimiento"
+        },
+        {
+          "nombre": "Jorge Asís",
+          "frase": "Yo empecé a escribir cuando la literatura aún tenía aluna relevancia a nivel social"
+        },
+        {
+          "nombre": "Boris Vian",
+          "frase": "No llore. No sirve para nada y se va a fatigar"
+        },
+        {
+          "nombre": "Jack Kerouac",
+          "frase": "La vida es un país extranjero"
+        },
+        {
+          "nombre": "Nikolái Gogol",
+          "frase": "El pánico es más contagioso que la peste y se comunica en un instante"
+        },
+        {
+          "nombre": "Simone de Beauvoir",
+          "frase": "A la muerte se le toma de frente con valor y después se le invita a una copa"
+        },
+        {
+          "nombre": "Tennessee Williams",
+          "frase": "Mata a mis demonios, y mis ángeles morirán también"
+        },
+        {
+          "nombre": "Henry Miller",
+          "frase": "No tengo dinero, ni recursos, ni esperanzas. Soy el hombre más feliz del mundo"
+        },
+        {
+          "nombre": "Arturo Pérez-Reverte",
+          "frase": "Ante una infamia es vil guardar silencio, y es digno rebelarse y combatirla"
+        },
+        {
+          "nombre": "Juan Carlos Onetti",
+          "frase": "La literatura es mentir bien la verdad"
+        },
+        {
+          "nombre": "Cesare Pavese",
+          "frase": "Pero la grande, la tremenda verdad es ésta: sufrir no sirve de nada"
+        },
+        {
+          "nombre": "José Donoso",
+          "frase": "Me gustaría tener dónde volver no para volver sino para tenerlo, nada más"
+        },
+        {
+          "nombre": "Juan Villoro",
+          "frase": "El futbol ha tenido un rey: Pelé. Pero solo ha tenido a un esclavo liberador: Maradona"
+        },
+        {
+          "nombre": "Robert Louis Stevenson",
+          "frase": "Mi memoria es magnífica para olvidar"
+        },
+        {
+          "nombre": "Antonio Skármeta",
+          "frase": "¿Usted cree que el mundo entero es la metáfora de algo?"
+        },
+        {
+          "nombre": "Susan Sontag",
+          "frase": "La literatura es libertad"
+        },
+        {
+          "nombre": "Oscar Wilde",
+          "frase": "Perdona siempre a tus enemigos: nada les molestará más"
+        },
+        {
+          "nombre": "T.S. Eliot",
+          "frase": "La mayor parte de los problemas del mundo se deben a la gente que quiere ser importante"
+        },
+        {
+          "nombre": "Gao Xingjian",
+          "frase": "Nadie puede librar a nadie de su sufrimiento"
+        },
+        {
+          "nombre": "Virginia Wolf",
+          "frase": "La vida es sueño; el despertar es lo que nos mata"
+        }
+      ]
+    },
+    {
+      
+      "frases": [
+        {
+          "nombre": "Osvaldo Soriano",
+          "frase": "Creo que no soy tan viejo como para ser venerable, ni tan joven como para ser un cómplice"
+        },
+        {
+          "nombre": "Roberto Fontanarrosa",
+          "frase": "Para el Sabio no existe la riqueza. Para el Virtuoso no existe el poder. Y para el Poderoso no existen ni el Sabio ni el Virtuoso"
+        },
+        {
+          "nombre": "Juan Rulfo",
+          "frase": "¿La ilusión? Eso cuesta caro. A mí me costó vivir más de lo debido"
+        },
+        {
+          "nombre": "Charles Bukowski",
+          "frase": "Soy un genio pero nadie lo sabe aparte de mí"
+        },
+        {
+          "nombre": "Edgar Allan Poe",
+          "frase": "A la muerte se le toma de frente con valor y después se le invita a una copa"
+        },
+        {
+          "nombre": "Luis Alberto Spinetta",
+          "frase": "Todo gigante muere cansado de que lo observen desde afuera"
+        },
+        {
+          "nombre": "Martín Kohan",
+          "frase": "Hay que dejar de endiosar a la lectura"
+        },
+        {
+          "nombre": "Bertolt Brecht",
+          "frase": "Cuando la verdad sea demasiado débil para defenderse tendrá que pasar al ataque"
+        },
+        {
+          "nombre": "Alberto Laiseca",
+          "frase": "Estoy harto de los genios. Lo que necesitamos es escritores que sepan escribir"
+        },
+        {
+          "nombre": "Vicente Huidobro",
+          "frase": "Inventa mundos nuevos y cuida tu palabra; el adjetivo, cuando no da vida, mata"
+        },
+        {
+          "nombre": "Leila Guerriero",
+          "frase": "Escribir es como correr una maratón: es horrible pero necesitas terminar"
+        },
+        {
+          "nombre": "Michel Houellebecq",
+          "frase": "El paso al monoteísmo no tiene nada de esfuerzo de abstracción, como algunos afirman: sólo es un paso hacia el embrutecimiento"
+        },
+        {
+          "nombre": "Jorge Asís",
+          "frase": "Yo empecé a escribir cuando la literatura aún tenía aluna relevancia a nivel social"
+        },
+        {
+          "nombre": "Boris Vian",
+          "frase": "No llore. No sirve para nada y se va a fatigar"
+        },
+        {
+          "nombre": "Jack Kerouac",
+          "frase": "La vida es un país extranjero"
+        },
+        {
+          "nombre": "Nikolái Gogol",
+          "frase": "El pánico es más contagioso que la peste y se comunica en un instante"
+        },
+        {
+          "nombre": "Simone de Beauvoir",
+          "frase": "A la muerte se le toma de frente con valor y después se le invita a una copa"
+        },
+        {
+          "nombre": "Tennessee Williams",
+          "frase": "Mata a mis demonios, y mis ángeles morirán también"
+        },
+        {
+          "nombre": "Henry Miller",
+          "frase": "No tengo dinero, ni recursos, ni esperanzas. Soy el hombre más feliz del mundo"
+        },
+        {
+          "nombre": "Arturo Pérez-Reverte",
+          "frase": "Ante una infamia es vil guardar silencio, y es digno rebelarse y combatirla"
+        },
+        {
+          "nombre": "Juan Carlos Onetti",
+          "frase": "La literatura es mentir bien la verdad"
+        },
+        {
+          "nombre": "Cesare Pavese",
+          "frase": "Pero la grande, la tremenda verdad es ésta: sufrir no sirve de nada"
+        },
+        {
+          "nombre": "José Donoso",
+          "frase": "Me gustaría tener dónde volver no para volver sino para tenerlo, nada más"
+        },
+        {
+          "nombre": "Juan Villoro",
+          "frase": "El futbol ha tenido un rey: Pelé. Pero solo ha tenido a un esclavo liberador: Maradona"
+        },
+        {
+          "nombre": "Robert Louis Stevenson",
+          "frase": "Mi memoria es magnífica para olvidar"
+        },
+        {
+          "nombre": "Antonio Skármeta",
+          "frase": "¿Usted cree que el mundo entero es la metáfora de algo?"
+        },
+        {
+          "nombre": "Susan Sontag",
+          "frase": "La literatura es libertad"
+        },
+        {
+          "nombre": "Oscar Wilde",
+          "frase": "Perdona siempre a tus enemigos: nada les molestará más"
+        },
+        {
+          "nombre": "T.S. Eliot",
+          "frase": "La mayor parte de los problemas del mundo se deben a la gente que quiere ser importante"
+        },
+        {
+          "nombre": "Gao Xingjian",
+          "frase": "Nadie puede librar a nadie de su sufrimiento"
+        },
+        {
+          "nombre": "Virginia Wolf",
+          "frase": "La vida es sueño; el despertar es lo que nos mata"
+        }
+      ]
+    },
+    {
+      
+      "frases": [
+        {
+          "nombre": "Osvaldo Soriano",
+          "frase": "Creo que no soy tan viejo como para ser venerable, ni tan joven como para ser un cómplice"
+        },
+        {
+          "nombre": "Roberto Fontanarrosa",
+          "frase": "Para el Sabio no existe la riqueza. Para el Virtuoso no existe el poder. Y para el Poderoso no existen ni el Sabio ni el Virtuoso"
+        },
+        {
+          "nombre": "Juan Rulfo",
+          "frase": "¿La ilusión? Eso cuesta caro. A mí me costó vivir más de lo debido"
+        },
+        {
+          "nombre": "Charles Bukowski",
+          "frase": "Soy un genio pero nadie lo sabe aparte de mí"
+        },
+        {
+          "nombre": "Edgar Allan Poe",
+          "frase": "A la muerte se le toma de frente con valor y después se le invita a una copa"
+        },
+        {
+          "nombre": "Luis Alberto Spinetta",
+          "frase": "Todo gigante muere cansado de que lo observen desde afuera"
+        },
+        {
+          "nombre": "Martín Kohan",
+          "frase": "Hay que dejar de endiosar a la lectura"
+        },
+        {
+          "nombre": "Bertolt Brecht",
+          "frase": "Cuando la verdad sea demasiado débil para defenderse tendrá que pasar al ataque"
+        },
+        {
+          "nombre": "Alberto Laiseca",
+          "frase": "Estoy harto de los genios. Lo que necesitamos es escritores que sepan escribir"
+        },
+        {
+          "nombre": "Vicente Huidobro",
+          "frase": "Inventa mundos nuevos y cuida tu palabra; el adjetivo, cuando no da vida, mata"
+        },
+        {
+          "nombre": "Leila Guerriero",
+          "frase": "Escribir es como correr una maratón: es horrible pero necesitas terminar"
+        },
+        {
+          "nombre": "Michel Houellebecq",
+          "frase": "El paso al monoteísmo no tiene nada de esfuerzo de abstracción, como algunos afirman: sólo es un paso hacia el embrutecimiento"
+        },
+        {
+          "nombre": "Jorge Asís",
+          "frase": "Yo empecé a escribir cuando la literatura aún tenía aluna relevancia a nivel social"
+        },
+        {
+          "nombre": "Boris Vian",
+          "frase": "No llore. No sirve para nada y se va a fatigar"
+        },
+        {
+          "nombre": "Jack Kerouac",
+          "frase": "La vida es un país extranjero"
+        },
+        {
+          "nombre": "Nikolái Gogol",
+          "frase": "El pánico es más contagioso que la peste y se comunica en un instante"
+        },
+        {
+          "nombre": "Simone de Beauvoir",
+          "frase": "A la muerte se le toma de frente con valor y después se le invita a una copa"
+        },
+        {
+          "nombre": "Tennessee Williams",
+          "frase": "Mata a mis demonios, y mis ángeles morirán también"
+        },
+        {
+          "nombre": "Henry Miller",
+          "frase": "No tengo dinero, ni recursos, ni esperanzas. Soy el hombre más feliz del mundo"
+        },
+        {
+          "nombre": "Arturo Pérez-Reverte",
+          "frase": "Ante una infamia es vil guardar silencio, y es digno rebelarse y combatirla"
+        },
+        {
+          "nombre": "Juan Carlos Onetti",
+          "frase": "La literatura es mentir bien la verdad"
+        },
+        {
+          "nombre": "Cesare Pavese",
+          "frase": "Pero la grande, la tremenda verdad es ésta: sufrir no sirve de nada"
+        },
+        {
+          "nombre": "José Donoso",
+          "frase": "Me gustaría tener dónde volver no para volver sino para tenerlo, nada más"
+        },
+        {
+          "nombre": "Juan Villoro",
+          "frase": "El futbol ha tenido un rey: Pelé. Pero solo ha tenido a un esclavo liberador: Maradona"
+        },
+        {
+          "nombre": "Robert Louis Stevenson",
+          "frase": "Mi memoria es magnífica para olvidar"
+        },
+        {
+          "nombre": "Antonio Skármeta",
+          "frase": "¿Usted cree que el mundo entero es la metáfora de algo?"
+        },
+        {
+          "nombre": "Susan Sontag",
+          "frase": "La literatura es libertad"
+        },
+        {
+          "nombre": "Oscar Wilde",
+          "frase": "Perdona siempre a tus enemigos: nada les molestará más"
+        },
+        {
+          "nombre": "T.S. Eliot",
+          "frase": "La mayor parte de los problemas del mundo se deben a la gente que quiere ser importante"
+        },
+        {
+          "nombre": "Gao Xingjian",
+          "frase": "Nadie puede librar a nadie de su sufrimiento"
+        },
+        {
+          "nombre": "Virginia Wolf",
+          "frase": "La vida es sueño; el despertar es lo que nos mata"
+        }
+      ]
+    },
+    {
+      
+      "frases": [
+        {
+          "nombre": "Osvaldo Soriano",
+          "frase": "Creo que no soy tan viejo como para ser venerable, ni tan joven como para ser un cómplice"
+        },
+        {
+          "nombre": "Roberto Fontanarrosa",
+          "frase": "Para el Sabio no existe la riqueza. Para el Virtuoso no existe el poder. Y para el Poderoso no existen ni el Sabio ni el Virtuoso"
+        },
+        {
+          "nombre": "Juan Rulfo",
+          "frase": "¿La ilusión? Eso cuesta caro. A mí me costó vivir más de lo debido"
+        },
+        {
+          "nombre": "Charles Bukowski",
+          "frase": "Soy un genio pero nadie lo sabe aparte de mí"
+        },
+        {
+          "nombre": "Edgar Allan Poe",
+          "frase": "A la muerte se le toma de frente con valor y después se le invita a una copa"
+        },
+        {
+          "nombre": "Luis Alberto Spinetta",
+          "frase": "Todo gigante muere cansado de que lo observen desde afuera"
+        },
+        {
+          "nombre": "Martín Kohan",
+          "frase": "Hay que dejar de endiosar a la lectura"
+        },
+        {
+          "nombre": "Bertolt Brecht",
+          "frase": "Cuando la verdad sea demasiado débil para defenderse tendrá que pasar al ataque"
+        },
+        {
+          "nombre": "Alberto Laiseca",
+          "frase": "Estoy harto de los genios. Lo que necesitamos es escritores que sepan escribir"
+        },
+        {
+          "nombre": "Vicente Huidobro",
+          "frase": "Inventa mundos nuevos y cuida tu palabra; el adjetivo, cuando no da vida, mata"
+        },
+        {
+          "nombre": "Leila Guerriero",
+          "frase": "Escribir es como correr una maratón: es horrible pero necesitas terminar"
+        },
+        {
+          "nombre": "Michel Houellebecq",
+          "frase": "El paso al monoteísmo no tiene nada de esfuerzo de abstracción, como algunos afirman: sólo es un paso hacia el embrutecimiento"
+        },
+        {
+          "nombre": "Jorge Asís",
+          "frase": "Yo empecé a escribir cuando la literatura aún tenía aluna relevancia a nivel social"
+        },
+        {
+          "nombre": "Boris Vian",
+          "frase": "No llore. No sirve para nada y se va a fatigar"
+        },
+        {
+          "nombre": "Jack Kerouac",
+          "frase": "La vida es un país extranjero"
+        },
+        {
+          "nombre": "Nikolái Gogol",
+          "frase": "El pánico es más contagioso que la peste y se comunica en un instante"
+        },
+        {
+          "nombre": "Simone de Beauvoir",
+          "frase": "A la muerte se le toma de frente con valor y después se le invita a una copa"
+        },
+        {
+          "nombre": "Tennessee Williams",
+          "frase": "Mata a mis demonios, y mis ángeles morirán también"
+        },
+        {
+          "nombre": "Henry Miller",
+          "frase": "No tengo dinero, ni recursos, ni esperanzas. Soy el hombre más feliz del mundo"
+        },
+        {
+          "nombre": "Arturo Pérez-Reverte",
+          "frase": "Ante una infamia es vil guardar silencio, y es digno rebelarse y combatirla"
+        },
+        {
+          "nombre": "Juan Carlos Onetti",
+          "frase": "La literatura es mentir bien la verdad"
+        },
+        {
+          "nombre": "Cesare Pavese",
+          "frase": "Pero la grande, la tremenda verdad es ésta: sufrir no sirve de nada"
+        },
+        {
+          "nombre": "José Donoso",
+          "frase": "Me gustaría tener dónde volver no para volver sino para tenerlo, nada más"
+        },
+        {
+          "nombre": "Juan Villoro",
+          "frase": "El futbol ha tenido un rey: Pelé. Pero solo ha tenido a un esclavo liberador: Maradona"
+        },
+        {
+          "nombre": "Robert Louis Stevenson",
+          "frase": "Mi memoria es magnífica para olvidar"
+        },
+        {
+          "nombre": "Antonio Skármeta",
+          "frase": "¿Usted cree que el mundo entero es la metáfora de algo?"
+        },
+        {
+          "nombre": "Susan Sontag",
+          "frase": "La literatura es libertad"
+        },
+        {
+          "nombre": "Oscar Wilde",
+          "frase": "Perdona siempre a tus enemigos: nada les molestará más"
+        },
+        {
+          "nombre": "T.S. Eliot",
+          "frase": "La mayor parte de los problemas del mundo se deben a la gente que quiere ser importante"
+        },
+        {
+          "nombre": "Gao Xingjian",
+          "frase": "Nadie puede librar a nadie de su sufrimiento"
+        },
+        {
+          "nombre": "Virginia Wolf",
+          "frase": "La vida es sueño; el despertar es lo que nos mata"
+        }
+      ]
+    },
+    {
+      
+      "frases": [
+        {
+          "nombre": "Osvaldo Soriano",
+          "frase": "Creo que no soy tan viejo como para ser venerable, ni tan joven como para ser un cómplice"
+        },
+        {
+          "nombre": "Roberto Fontanarrosa",
+          "frase": "Para el Sabio no existe la riqueza. Para el Virtuoso no existe el poder. Y para el Poderoso no existen ni el Sabio ni el Virtuoso"
+        },
+        {
+          "nombre": "Juan Rulfo",
+          "frase": "¿La ilusión? Eso cuesta caro. A mí me costó vivir más de lo debido"
+        },
+        {
+          "nombre": "Charles Bukowski",
+          "frase": "Soy un genio pero nadie lo sabe aparte de mí"
+        },
+        {
+          "nombre": "Edgar Allan Poe",
+          "frase": "A la muerte se le toma de frente con valor y después se le invita a una copa"
+        },
+        {
+          "nombre": "Luis Alberto Spinetta",
+          "frase": "Todo gigante muere cansado de que lo observen desde afuera"
+        },
+        {
+          "nombre": "Martín Kohan",
+          "frase": "Hay que dejar de endiosar a la lectura"
+        },
+        {
+          "nombre": "Bertolt Brecht",
+          "frase": "Cuando la verdad sea demasiado débil para defenderse tendrá que pasar al ataque"
+        },
+        {
+          "nombre": "Alberto Laiseca",
+          "frase": "Estoy harto de los genios. Lo que necesitamos es escritores que sepan escribir"
+        },
+        {
+          "nombre": "Vicente Huidobro",
+          "frase": "Inventa mundos nuevos y cuida tu palabra; el adjetivo, cuando no da vida, mata"
+        },
+        {
+          "nombre": "Leila Guerriero",
+          "frase": "Escribir es como correr una maratón: es horrible pero necesitas terminar"
+        },
+        {
+          "nombre": "Michel Houellebecq",
+          "frase": "El paso al monoteísmo no tiene nada de esfuerzo de abstracción, como algunos afirman: sólo es un paso hacia el embrutecimiento"
+        },
+        {
+          "nombre": "Jorge Asís",
+          "frase": "Yo empecé a escribir cuando la literatura aún tenía aluna relevancia a nivel social"
+        },
+        {
+          "nombre": "Boris Vian",
+          "frase": "No llore. No sirve para nada y se va a fatigar"
+        },
+        {
+          "nombre": "Jack Kerouac",
+          "frase": "La vida es un país extranjero"
+        },
+        {
+          "nombre": "Nikolái Gogol",
+          "frase": "El pánico es más contagioso que la peste y se comunica en un instante"
+        },
+        {
+          "nombre": "Simone de Beauvoir",
+          "frase": "A la muerte se le toma de frente con valor y después se le invita a una copa"
+        },
+        {
+          "nombre": "Tennessee Williams",
+          "frase": "Mata a mis demonios, y mis ángeles morirán también"
+        },
+        {
+          "nombre": "Henry Miller",
+          "frase": "No tengo dinero, ni recursos, ni esperanzas. Soy el hombre más feliz del mundo"
+        },
+        {
+          "nombre": "Arturo Pérez-Reverte",
+          "frase": "Ante una infamia es vil guardar silencio, y es digno rebelarse y combatirla"
+        },
+        {
+          "nombre": "Juan Carlos Onetti",
+          "frase": "La literatura es mentir bien la verdad"
+        },
+        {
+          "nombre": "Cesare Pavese",
+          "frase": "Pero la grande, la tremenda verdad es ésta: sufrir no sirve de nada"
+        },
+        {
+          "nombre": "José Donoso",
+          "frase": "Me gustaría tener dónde volver no para volver sino para tenerlo, nada más"
+        },
+        {
+          "nombre": "Juan Villoro",
+          "frase": "El futbol ha tenido un rey: Pelé. Pero solo ha tenido a un esclavo liberador: Maradona"
+        },
+        {
+          "nombre": "Robert Louis Stevenson",
+          "frase": "Mi memoria es magnífica para olvidar"
+        },
+        {
+          "nombre": "Antonio Skármeta",
+          "frase": "¿Usted cree que el mundo entero es la metáfora de algo?"
+        },
+        {
+          "nombre": "Susan Sontag",
+          "frase": "La literatura es libertad"
+        },
+        {
+          "nombre": "Oscar Wilde",
+          "frase": "Perdona siempre a tus enemigos: nada les molestará más"
+        },
+        {
+          "nombre": "T.S. Eliot",
+          "frase": "La mayor parte de los problemas del mundo se deben a la gente que quiere ser importante"
+        },
+        {
+          "nombre": "Gao Xingjian",
+          "frase": "Nadie puede librar a nadie de su sufrimiento"
+        },
+        {
+          "nombre": "Virginia Wolf",
+          "frase": "La vida es sueño; el despertar es lo que nos mata"
+        }
+      ]
+    },
+    {
+      
+      "frases": [
+        {
+          "nombre": "Osvaldo Soriano",
+          "frase": "Creo que no soy tan viejo como para ser venerable, ni tan joven como para ser un cómplice"
+        },
+        {
+          "nombre": "Roberto Fontanarrosa",
+          "frase": "Para el Sabio no existe la riqueza. Para el Virtuoso no existe el poder. Y para el Poderoso no existen ni el Sabio ni el Virtuoso"
+        },
+        {
+          "nombre": "Juan Rulfo",
+          "frase": "¿La ilusión? Eso cuesta caro. A mí me costó vivir más de lo debido"
+        },
+        {
+          "nombre": "Charles Bukowski",
+          "frase": "Soy un genio pero nadie lo sabe aparte de mí"
+        },
+        {
+          "nombre": "Edgar Allan Poe",
+          "frase": "A la muerte se le toma de frente con valor y después se le invita a una copa"
+        },
+        {
+          "nombre": "Luis Alberto Spinetta",
+          "frase": "Todo gigante muere cansado de que lo observen desde afuera"
+        },
+        {
+          "nombre": "Martín Kohan",
+          "frase": "Hay que dejar de endiosar a la lectura"
+        },
+        {
+          "nombre": "Bertolt Brecht",
+          "frase": "Cuando la verdad sea demasiado débil para defenderse tendrá que pasar al ataque"
+        },
+        {
+          "nombre": "Alberto Laiseca",
+          "frase": "Estoy harto de los genios. Lo que necesitamos es escritores que sepan escribir"
+        },
+        {
+          "nombre": "Vicente Huidobro",
+          "frase": "Inventa mundos nuevos y cuida tu palabra; el adjetivo, cuando no da vida, mata"
+        },
+        {
+          "nombre": "Leila Guerriero",
+          "frase": "Escribir es como correr una maratón: es horrible pero necesitas terminar"
+        },
+        {
+          "nombre": "Michel Houellebecq",
+          "frase": "El paso al monoteísmo no tiene nada de esfuerzo de abstracción, como algunos afirman: sólo es un paso hacia el embrutecimiento"
+        },
+        {
+          "nombre": "Jorge Asís",
+          "frase": "Yo empecé a escribir cuando la literatura aún tenía aluna relevancia a nivel social"
+        },
+        {
+          "nombre": "Boris Vian",
+          "frase": "No llore. No sirve para nada y se va a fatigar"
+        },
+        {
+          "nombre": "Jack Kerouac",
+          "frase": "La vida es un país extranjero"
+        },
+        {
+          "nombre": "Nikolái Gogol",
+          "frase": "El pánico es más contagioso que la peste y se comunica en un instante"
+        },
+        {
+          "nombre": "Simone de Beauvoir",
+          "frase": "A la muerte se le toma de frente con valor y después se le invita a una copa"
+        },
+        {
+          "nombre": "Tennessee Williams",
+          "frase": "Mata a mis demonios, y mis ángeles morirán también"
+        },
+        {
+          "nombre": "Henry Miller",
+          "frase": "No tengo dinero, ni recursos, ni esperanzas. Soy el hombre más feliz del mundo"
+        },
+        {
+          "nombre": "Arturo Pérez-Reverte",
+          "frase": "Ante una infamia es vil guardar silencio, y es digno rebelarse y combatirla"
+        },
+        {
+          "nombre": "Juan Carlos Onetti",
+          "frase": "La literatura es mentir bien la verdad"
+        },
+        {
+          "nombre": "Cesare Pavese",
+          "frase": "Pero la grande, la tremenda verdad es ésta: sufrir no sirve de nada"
+        },
+        {
+          "nombre": "José Donoso",
+          "frase": "Me gustaría tener dónde volver no para volver sino para tenerlo, nada más"
+        },
+        {
+          "nombre": "Juan Villoro",
+          "frase": "El futbol ha tenido un rey: Pelé. Pero solo ha tenido a un esclavo liberador: Maradona"
+        },
+        {
+          "nombre": "Robert Louis Stevenson",
+          "frase": "Mi memoria es magnífica para olvidar"
+        },
+        {
+          "nombre": "Antonio Skármeta",
+          "frase": "¿Usted cree que el mundo entero es la metáfora de algo?"
+        },
+        {
+          "nombre": "Susan Sontag",
+          "frase": "La literatura es libertad"
+        },
+        {
+          "nombre": "Oscar Wilde",
+          "frase": "Perdona siempre a tus enemigos: nada les molestará más"
+        },
+        {
+          "nombre": "T.S. Eliot",
+          "frase": "La mayor parte de los problemas del mundo se deben a la gente que quiere ser importante"
+        },
+        {
+          "nombre": "Gao Xingjian",
+          "frase": "Nadie puede librar a nadie de su sufrimiento"
+        },
+        {
+          "nombre": "Virginia Wolf",
+          "frase": "La vida es sueño; el despertar es lo que nos mata"
+        }
+      ]
+    },
+    {
+      
+      "frases": [
+        {
+          "nombre": "Osvaldo Soriano",
+          "frase": "Creo que no soy tan viejo como para ser venerable, ni tan joven como para ser un cómplice"
+        },
+        {
+          "nombre": "Roberto Fontanarrosa",
+          "frase": "Para el Sabio no existe la riqueza. Para el Virtuoso no existe el poder. Y para el Poderoso no existen ni el Sabio ni el Virtuoso"
+        },
+        {
+          "nombre": "Juan Rulfo",
+          "frase": "¿La ilusión? Eso cuesta caro. A mí me costó vivir más de lo debido"
+        },
+        {
+          "nombre": "Charles Bukowski",
+          "frase": "Soy un genio pero nadie lo sabe aparte de mí"
+        },
+        {
+          "nombre": "Edgar Allan Poe",
+          "frase": "A la muerte se le toma de frente con valor y después se le invita a una copa"
+        },
+        {
+          "nombre": "Luis Alberto Spinetta",
+          "frase": "Todo gigante muere cansado de que lo observen desde afuera"
+        },
+        {
+          "nombre": "Martín Kohan",
+          "frase": "Hay que dejar de endiosar a la lectura"
+        },
+        {
+          "nombre": "Bertolt Brecht",
+          "frase": "Cuando la verdad sea demasiado débil para defenderse tendrá que pasar al ataque"
+        },
+        {
+          "nombre": "Alberto Laiseca",
+          "frase": "Estoy harto de los genios. Lo que necesitamos es escritores que sepan escribir"
+        },
+        {
+          "nombre": "Vicente Huidobro",
+          "frase": "Inventa mundos nuevos y cuida tu palabra; el adjetivo, cuando no da vida, mata"
+        },
+        {
+          "nombre": "Leila Guerriero",
+          "frase": "Escribir es como correr una maratón: es horrible pero necesitas terminar"
+        },
+        {
+          "nombre": "Michel Houellebecq",
+          "frase": "El paso al monoteísmo no tiene nada de esfuerzo de abstracción, como algunos afirman: sólo es un paso hacia el embrutecimiento"
+        },
+        {
+          "nombre": "Jorge Asís",
+          "frase": "Yo empecé a escribir cuando la literatura aún tenía aluna relevancia a nivel social"
+        },
+        {
+          "nombre": "Boris Vian",
+          "frase": "No llore. No sirve para nada y se va a fatigar"
+        },
+        {
+          "nombre": "Jack Kerouac",
+          "frase": "La vida es un país extranjero"
+        },
+        {
+          "nombre": "Nikolái Gogol",
+          "frase": "El pánico es más contagioso que la peste y se comunica en un instante"
+        },
+        {
+          "nombre": "Simone de Beauvoir",
+          "frase": "A la muerte se le toma de frente con valor y después se le invita a una copa"
+        },
+        {
+          "nombre": "Tennessee Williams",
+          "frase": "Mata a mis demonios, y mis ángeles morirán también"
+        },
+        {
+          "nombre": "Henry Miller",
+          "frase": "No tengo dinero, ni recursos, ni esperanzas. Soy el hombre más feliz del mundo"
+        },
+        {
+          "nombre": "Arturo Pérez-Reverte",
+          "frase": "Ante una infamia es vil guardar silencio, y es digno rebelarse y combatirla"
+        },
+        {
+          "nombre": "Juan Carlos Onetti",
+          "frase": "La literatura es mentir bien la verdad"
+        },
+        {
+          "nombre": "Cesare Pavese",
+          "frase": "Pero la grande, la tremenda verdad es ésta: sufrir no sirve de nada"
+        },
+        {
+          "nombre": "José Donoso",
+          "frase": "Me gustaría tener dónde volver no para volver sino para tenerlo, nada más"
+        },
+        {
+          "nombre": "Juan Villoro",
+          "frase": "El futbol ha tenido un rey: Pelé. Pero solo ha tenido a un esclavo liberador: Maradona"
+        },
+        {
+          "nombre": "Robert Louis Stevenson",
+          "frase": "Mi memoria es magnífica para olvidar"
+        },
+        {
+          "nombre": "Antonio Skármeta",
+          "frase": "¿Usted cree que el mundo entero es la metáfora de algo?"
+        },
+        {
+          "nombre": "Susan Sontag",
+          "frase": "La literatura es libertad"
+        },
+        {
+          "nombre": "Oscar Wilde",
+          "frase": "Perdona siempre a tus enemigos: nada les molestará más"
+        },
+        {
+          "nombre": "T.S. Eliot",
+          "frase": "La mayor parte de los problemas del mundo se deben a la gente que quiere ser importante"
+        },
+        {
+          "nombre": "Gao Xingjian",
+          "frase": "Nadie puede librar a nadie de su sufrimiento"
+        },
+        {
+          "nombre": "Virginia Wolf",
+          "frase": "La vida es sueño; el despertar es lo que nos mata"
+        }
+      ]
+    },
+    {
+      
+      "frases": [
+        {
+          "nombre": "Osvaldo Soriano",
+          "frase": "Creo que no soy tan viejo como para ser venerable, ni tan joven como para ser un cómplice"
+        },
+        {
+          "nombre": "Roberto Fontanarrosa",
+          "frase": "Para el Sabio no existe la riqueza. Para el Virtuoso no existe el poder. Y para el Poderoso no existen ni el Sabio ni el Virtuoso"
+        },
+        {
+          "nombre": "Juan Rulfo",
+          "frase": "¿La ilusión? Eso cuesta caro. A mí me costó vivir más de lo debido"
+        },
+        {
+          "nombre": "Charles Bukowski",
+          "frase": "Soy un genio pero nadie lo sabe aparte de mí"
+        },
+        {
+          "nombre": "Edgar Allan Poe",
+          "frase": "A la muerte se le toma de frente con valor y después se le invita a una copa"
+        },
+        {
+          "nombre": "Luis Alberto Spinetta",
+          "frase": "Todo gigante muere cansado de que lo observen desde afuera"
+        },
+        {
+          "nombre": "Martín Kohan",
+          "frase": "Hay que dejar de endiosar a la lectura"
+        },
+        {
+          "nombre": "Bertolt Brecht",
+          "frase": "Cuando la verdad sea demasiado débil para defenderse tendrá que pasar al ataque"
+        },
+        {
+          "nombre": "Alberto Laiseca",
+          "frase": "Estoy harto de los genios. Lo que necesitamos es escritores que sepan escribir"
+        },
+        {
+          "nombre": "Vicente Huidobro",
+          "frase": "Inventa mundos nuevos y cuida tu palabra; el adjetivo, cuando no da vida, mata"
+        },
+        {
+          "nombre": "Leila Guerriero",
+          "frase": "Escribir es como correr una maratón: es horrible pero necesitas terminar"
+        },
+        {
+          "nombre": "Michel Houellebecq",
+          "frase": "El paso al monoteísmo no tiene nada de esfuerzo de abstracción, como algunos afirman: sólo es un paso hacia el embrutecimiento"
+        },
+        {
+          "nombre": "Jorge Asís",
+          "frase": "Yo empecé a escribir cuando la literatura aún tenía aluna relevancia a nivel social"
+        },
+        {
+          "nombre": "Boris Vian",
+          "frase": "No llore. No sirve para nada y se va a fatigar"
+        },
+        {
+          "nombre": "Jack Kerouac",
+          "frase": "La vida es un país extranjero"
+        },
+        {
+          "nombre": "Nikolái Gogol",
+          "frase": "El pánico es más contagioso que la peste y se comunica en un instante"
+        },
+        {
+          "nombre": "Simone de Beauvoir",
+          "frase": "A la muerte se le toma de frente con valor y después se le invita a una copa"
+        },
+        {
+          "nombre": "Tennessee Williams",
+          "frase": "Mata a mis demonios, y mis ángeles morirán también"
+        },
+        {
+          "nombre": "Henry Miller",
+          "frase": "No tengo dinero, ni recursos, ni esperanzas. Soy el hombre más feliz del mundo"
+        },
+        {
+          "nombre": "Arturo Pérez-Reverte",
+          "frase": "Ante una infamia es vil guardar silencio, y es digno rebelarse y combatirla"
+        },
+        {
+          "nombre": "Juan Carlos Onetti",
+          "frase": "La literatura es mentir bien la verdad"
+        },
+        {
+          "nombre": "Cesare Pavese",
+          "frase": "Pero la grande, la tremenda verdad es ésta: sufrir no sirve de nada"
+        },
+        {
+          "nombre": "José Donoso",
+          "frase": "Me gustaría tener dónde volver no para volver sino para tenerlo, nada más"
+        },
+        {
+          "nombre": "Juan Villoro",
+          "frase": "El futbol ha tenido un rey: Pelé. Pero solo ha tenido a un esclavo liberador: Maradona"
+        },
+        {
+          "nombre": "Robert Louis Stevenson",
+          "frase": "Mi memoria es magnífica para olvidar"
+        },
+        {
+          "nombre": "Antonio Skármeta",
+          "frase": "¿Usted cree que el mundo entero es la metáfora de algo?"
+        },
+        {
+          "nombre": "Susan Sontag",
+          "frase": "La literatura es libertad"
+        },
+        {
+          "nombre": "Oscar Wilde",
+          "frase": "Perdona siempre a tus enemigos: nada les molestará más"
+        },
+        {
+          "nombre": "T.S. Eliot",
+          "frase": "La mayor parte de los problemas del mundo se deben a la gente que quiere ser importante"
+        },
+        {
+          "nombre": "Gao Xingjian",
+          "frase": "Nadie puede librar a nadie de su sufrimiento"
+        },
+        {
+          "nombre": "Virginia Wolf",
+          "frase": "La vida es sueño; el despertar es lo que nos mata"
+        }
+      ]
+    },
+    {
+      
+      "frases": [
+        {
+          "nombre": "Osvaldo Soriano",
+          "frase": "Creo que no soy tan viejo como para ser venerable, ni tan joven como para ser un cómplice"
+        },
+        {
+          "nombre": "Roberto Fontanarrosa",
+          "frase": "Para el Sabio no existe la riqueza. Para el Virtuoso no existe el poder. Y para el Poderoso no existen ni el Sabio ni el Virtuoso"
+        },
+        {
+          "nombre": "Juan Rulfo",
+          "frase": "¿La ilusión? Eso cuesta caro. A mí me costó vivir más de lo debido"
+        },
+        {
+          "nombre": "Charles Bukowski",
+          "frase": "Soy un genio pero nadie lo sabe aparte de mí"
+        },
+        {
+          "nombre": "Edgar Allan Poe",
+          "frase": "A la muerte se le toma de frente con valor y después se le invita a una copa"
+        },
+        {
+          "nombre": "Luis Alberto Spinetta",
+          "frase": "Todo gigante muere cansado de que lo observen desde afuera"
+        },
+        {
+          "nombre": "Martín Kohan",
+          "frase": "Hay que dejar de endiosar a la lectura"
+        },
+        {
+          "nombre": "Bertolt Brecht",
+          "frase": "Cuando la verdad sea demasiado débil para defenderse tendrá que pasar al ataque"
+        },
+        {
+          "nombre": "Alberto Laiseca",
+          "frase": "Estoy harto de los genios. Lo que necesitamos es escritores que sepan escribir"
+        },
+        {
+          "nombre": "Vicente Huidobro",
+          "frase": "Inventa mundos nuevos y cuida tu palabra; el adjetivo, cuando no da vida, mata"
+        },
+        {
+          "nombre": "Leila Guerriero",
+          "frase": "Escribir es como correr una maratón: es horrible pero necesitas terminar"
+        },
+        {
+          "nombre": "Michel Houellebecq",
+          "frase": "El paso al monoteísmo no tiene nada de esfuerzo de abstracción, como algunos afirman: sólo es un paso hacia el embrutecimiento"
+        },
+        {
+          "nombre": "Jorge Asís",
+          "frase": "Yo empecé a escribir cuando la literatura aún tenía aluna relevancia a nivel social"
+        },
+        {
+          "nombre": "Boris Vian",
+          "frase": "No llore. No sirve para nada y se va a fatigar"
+        },
+        {
+          "nombre": "Jack Kerouac",
+          "frase": "La vida es un país extranjero"
+        },
+        {
+          "nombre": "Nikolái Gogol",
+          "frase": "El pánico es más contagioso que la peste y se comunica en un instante"
+        },
+        {
+          "nombre": "Simone de Beauvoir",
+          "frase": "A la muerte se le toma de frente con valor y después se le invita a una copa"
+        },
+        {
+          "nombre": "Tennessee Williams",
+          "frase": "Mata a mis demonios, y mis ángeles morirán también"
+        },
+        {
+          "nombre": "Henry Miller",
+          "frase": "No tengo dinero, ni recursos, ni esperanzas. Soy el hombre más feliz del mundo"
+        },
+        {
+          "nombre": "Arturo Pérez-Reverte",
+          "frase": "Ante una infamia es vil guardar silencio, y es digno rebelarse y combatirla"
+        },
+        {
+          "nombre": "Juan Carlos Onetti",
+          "frase": "La literatura es mentir bien la verdad"
+        },
+        {
+          "nombre": "Cesare Pavese",
+          "frase": "Pero la grande, la tremenda verdad es ésta: sufrir no sirve de nada"
+        },
+        {
+          "nombre": "José Donoso",
+          "frase": "Me gustaría tener dónde volver no para volver sino para tenerlo, nada más"
+        },
+        {
+          "nombre": "Juan Villoro",
+          "frase": "El futbol ha tenido un rey: Pelé. Pero solo ha tenido a un esclavo liberador: Maradona"
+        },
+        {
+          "nombre": "Robert Louis Stevenson",
+          "frase": "Mi memoria es magnífica para olvidar"
+        },
+        {
+          "nombre": "Antonio Skármeta",
+          "frase": "¿Usted cree que el mundo entero es la metáfora de algo?"
+        },
+        {
+          "nombre": "Susan Sontag",
+          "frase": "La literatura es libertad"
+        },
+        {
+          "nombre": "Oscar Wilde",
+          "frase": "Perdona siempre a tus enemigos: nada les molestará más"
+        },
+        {
+          "nombre": "T.S. Eliot",
+          "frase": "La mayor parte de los problemas del mundo se deben a la gente que quiere ser importante"
+        },
+        {
+          "nombre": "Gao Xingjian",
+          "frase": "Nadie puede librar a nadie de su sufrimiento"
+        },
+        {
+          "nombre": "Virginia Wolf",
+          "frase": "La vida es sueño; el despertar es lo que nos mata"
+        }
+      ]
+    },
+    {
+      
+      "frases": [
+        {
+          "nombre": "Osvaldo Soriano",
+          "frase": "Creo que no soy tan viejo como para ser venerable, ni tan joven como para ser un cómplice"
+        },
+        {
+          "nombre": "Roberto Fontanarrosa",
+          "frase": "Para el Sabio no existe la riqueza. Para el Virtuoso no existe el poder. Y para el Poderoso no existen ni el Sabio ni el Virtuoso"
+        },
+        {
+          "nombre": "Juan Rulfo",
+          "frase": "¿La ilusión? Eso cuesta caro. A mí me costó vivir más de lo debido"
+        },
+        {
+          "nombre": "Charles Bukowski",
+          "frase": "Soy un genio pero nadie lo sabe aparte de mí"
+        },
+        {
+          "nombre": "Edgar Allan Poe",
+          "frase": "A la muerte se le toma de frente con valor y después se le invita a una copa"
+        },
+        {
+          "nombre": "Luis Alberto Spinetta",
+          "frase": "Todo gigante muere cansado de que lo observen desde afuera"
+        },
+        {
+          "nombre": "Martín Kohan",
+          "frase": "Hay que dejar de endiosar a la lectura"
+        },
+        {
+          "nombre": "Bertolt Brecht",
+          "frase": "Cuando la verdad sea demasiado débil para defenderse tendrá que pasar al ataque"
+        },
+        {
+          "nombre": "Alberto Laiseca",
+          "frase": "Estoy harto de los genios. Lo que necesitamos es escritores que sepan escribir"
+        },
+        {
+          "nombre": "Vicente Huidobro",
+          "frase": "Inventa mundos nuevos y cuida tu palabra; el adjetivo, cuando no da vida, mata"
+        },
+        {
+          "nombre": "Leila Guerriero",
+          "frase": "Escribir es como correr una maratón: es horrible pero necesitas terminar"
+        },
+        {
+          "nombre": "Michel Houellebecq",
+          "frase": "El paso al monoteísmo no tiene nada de esfuerzo de abstracción, como algunos afirman: sólo es un paso hacia el embrutecimiento"
+        },
+        {
+          "nombre": "Jorge Asís",
+          "frase": "Yo empecé a escribir cuando la literatura aún tenía aluna relevancia a nivel social"
+        },
+        {
+          "nombre": "Boris Vian",
+          "frase": "No llore. No sirve para nada y se va a fatigar"
+        },
+        {
+          "nombre": "Jack Kerouac",
+          "frase": "La vida es un país extranjero"
+        },
+        {
+          "nombre": "Nikolái Gogol",
+          "frase": "El pánico es más contagioso que la peste y se comunica en un instante"
+        },
+        {
+          "nombre": "Simone de Beauvoir",
+          "frase": "A la muerte se le toma de frente con valor y después se le invita a una copa"
+        },
+        {
+          "nombre": "Tennessee Williams",
+          "frase": "Mata a mis demonios, y mis ángeles morirán también"
+        },
+        {
+          "nombre": "Henry Miller",
+          "frase": "No tengo dinero, ni recursos, ni esperanzas. Soy el hombre más feliz del mundo"
+        },
+        {
+          "nombre": "Arturo Pérez-Reverte",
+          "frase": "Ante una infamia es vil guardar silencio, y es digno rebelarse y combatirla"
+        },
+        {
+          "nombre": "Juan Carlos Onetti",
+          "frase": "La literatura es mentir bien la verdad"
+        },
+        {
+          "nombre": "Cesare Pavese",
+          "frase": "Pero la grande, la tremenda verdad es ésta: sufrir no sirve de nada"
+        },
+        {
+          "nombre": "José Donoso",
+          "frase": "Me gustaría tener dónde volver no para volver sino para tenerlo, nada más"
+        },
+        {
+          "nombre": "Juan Villoro",
+          "frase": "El futbol ha tenido un rey: Pelé. Pero solo ha tenido a un esclavo liberador: Maradona"
+        },
+        {
+          "nombre": "Robert Louis Stevenson",
+          "frase": "Mi memoria es magnífica para olvidar"
+        },
+        {
+          "nombre": "Antonio Skármeta",
+          "frase": "¿Usted cree que el mundo entero es la metáfora de algo?"
+        },
+        {
+          "nombre": "Susan Sontag",
+          "frase": "La literatura es libertad"
+        },
+        {
+          "nombre": "Oscar Wilde",
+          "frase": "Perdona siempre a tus enemigos: nada les molestará más"
+        },
+        {
+          "nombre": "T.S. Eliot",
+          "frase": "La mayor parte de los problemas del mundo se deben a la gente que quiere ser importante"
+        },
+        {
+          "nombre": "Gao Xingjian",
+          "frase": "Nadie puede librar a nadie de su sufrimiento"
+        },
+        {
+          "nombre": "Virginia Wolf",
+          "frase": "La vida es sueño; el despertar es lo que nos mata"
+        }
+      ]
+    }
+  ]
+  
