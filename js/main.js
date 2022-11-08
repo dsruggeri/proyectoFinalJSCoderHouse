@@ -1,10 +1,13 @@
- 
-const cargar = (libros) => {
+ // FUNCIONES PARA CARGAR LA BIBLIOTECA SI EL LOGIN ES CON EL USUARIO 'DIEGO'
+
+//carga los libros traídos del JSON
+ const cargar = (libros) => {
    for (i = 0; i < libros.length; i+= 1){
     DIEGO.biblioteca.push(libros[i]);
    }
 }
 
+//trae la info del JSON
 const cargarBibliotecaDiego = async () => {
     try{
         const resp = await fetch("../data/bibliotecaDiego.json");
@@ -15,6 +18,8 @@ const cargarBibliotecaDiego = async () => {
         console.log(error)
     }
 }
+
+//carga la info del usuario DIEGO, la guarda en Session Storage y llama a buscar los libros
 const loginDiego = async (evt) => {
     evt.preventDefault();
     let origen = window.location.origin;
@@ -24,23 +29,11 @@ const loginDiego = async (evt) => {
     window.location = origen + "/mibiblioteca.html";
 }
 
-
-
-/*
-function loginDiego(){
-    sessionStorage.clear();
-    cargarBibliotecaDiego();
-    sessionStorage.setItem("usuarioActivo", JSON.stringify(DIEGO));  
-}
-*/
-
+//Si el logueo es como 'visitante', carga la info en Session Storage
 function loginVisitante(){
     sessionStorage.clear();
     sessionStorage.setItem("usuarioActivo", JSON.stringify(VISITANTE));  
 }
-
-
-
 
 //(mientras no exista un backend y no pueda persistir al nuevo usuario, "Nuevo" y "Visitante" funcionan igual...)
 const DIEGO = new Usuario("Diego", "Ruggeri", "dsruggeri", "dsruggeri@gmail.com")
