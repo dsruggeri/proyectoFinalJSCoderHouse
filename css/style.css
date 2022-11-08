@@ -27,7 +27,7 @@ h1, h2, h3, h4, h5, h6, p {
 }
 
 
-#btncerrartablatodos:hover, #btncerrartablaprestados:hover, .trash:hover, .edit:hover {
+#btncerrar:hover, .trash:hover, .edit:hover {
     cursor: pointer;
 }
 
